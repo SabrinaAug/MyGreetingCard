@@ -3,9 +3,9 @@
 Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Android studio et développer des applications Android en Kotlin avec JetPack Compose
 
 Les exercices / projets réalisés :
-* [Création d'une carte d'anniversaire](https://github.com/SabrinaAug/MyGreetingCard/edit/release-0.0.1/README.md#-cr%C3%A9ation-dune-carte-danniversaire)
-* [Création d'un article sur Jetpack Compose](https://github.com/SabrinaAug/MyGreetingCard/edit/release-0.0.1/README.md#-cr%C3%A9ation-dun-article-sur-jetpack-compose)
-* [Gestionnaire de tâches](https://github.com/SabrinaAug/MyGreetingCard/edit/release-0.0.1/README.md#%EF%B8%8F-gestionnaire-de-t%C3%A2ches)
+* [Création d'une carte d'anniversaire](https://github.com/SabrinaAug/MyGreetingCard/tree/release-0.0.1#-cr%C3%A9ation-dune-carte-danniversaire)
+* [Création d'un article sur Jetpack Compose](https://github.com/SabrinaAug/MyGreetingCard/tree/release-0.0.1#-cr%C3%A9ation-dun-article-sur-jetpack-compose)
+* [Gestionnaire de tâches](https://github.com/SabrinaAug/MyGreetingCard/tree/release-0.0.1#%EF%B8%8F-gestionnaire-de-t%C3%A2ches)
 
 [Le site web / Cours de programmation](https://developer.android.com/codelabs)
 
