@@ -2,11 +2,10 @@
 
 Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Android studio et développer des applications Android en Kotlin avec JetPack Compose
 
-Références : 
-    * [le site web / Cours de programmation](https://developer.android.com/codelabs)
+[Le site web / Cours de programmation](https://developer.android.com/codelabs)
 
 ## Installation Android Studio
-    * [Lien vers le site web](https://developer.android.com/studio/install)
+[Process d'insatllation via le site web Android]( https://developer.android.com/studio/install)
 
 ## Création d'un nouveau AVD(Android Virtual Device)
 
@@ -33,6 +32,7 @@ Références :
 * L'utilisation de "Row" et de "Column"
 * Ajouter une image au projet
 * Changer la taille de l'image avec l'aide de "modifier"
+  
   ![capture de ma carte d'anniversaire](C:\Users\utilisateur\Pictures\Capture-birthdayCardWithImage-AndroidApplication.PNG)
 
 
