@@ -1,7 +1,5 @@
 # My Greeting Card - J'apprends à développer des applications Android
-
-![](https://developer.android.com/static/studio/images/new-studio-logo-1.png)
-
+<img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width="300" height="300" >
 Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Android studio et développer des applications Android en Kotlin avec JetPack Compose
 
 [Le site web / Cours de programmation](https://developer.android.com/codelabs)
@@ -34,5 +32,5 @@ Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Androi
 * L'utilisation de "Row" et de "Column"
 * Ajouter une image au projet
 * Changer la taille de l'image avec l'aide de "modifier"
+<img src="https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/a68119ec-b45b-4d81-9c04-d1191a215a6b" width="200" height="400" >
 
-![Capture-birthdayCardWithImage-AndroidApplication](https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/a68119ec-b45b-4d81-9c04-d1191a215a6b)
