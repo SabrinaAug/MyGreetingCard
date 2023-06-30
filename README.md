@@ -32,7 +32,5 @@ Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Androi
 * L'utilisation de "Row" et de "Column"
 * Ajouter une image au projet
 * Changer la taille de l'image avec l'aide de "modifier"
-  
-  ![capture de ma carte d'anniversaire](C:\Users\utilisateur\Pictures\Capture-birthdayCardWithImage-AndroidApplication.PNG)
 
-
+![Capture-birthdayCardWithImage-AndroidApplication](https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/a68119ec-b45b-4d81-9c04-d1191a215a6b)
