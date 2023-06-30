@@ -2,6 +2,11 @@
 <img src="https://developer.android.com/static/studio/images/new-studio-logo-1.png" width="300" height="300" >
 Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Android studio et développer des applications Android en Kotlin avec JetPack Compose
 
+Les exercices / projets réalisés :
+* [Création d'une carte d'anniversaire](https://github.com/SabrinaAug/MyGreetingCard/edit/release-0.0.1/README.md#-cr%C3%A9ation-dune-carte-danniversaire)
+* [Création d'un article sur Jetpack Compose](https://github.com/SabrinaAug/MyGreetingCard/edit/release-0.0.1/README.md#-cr%C3%A9ation-dun-article-sur-jetpack-compose)
+* [Gestionnaire de tâches](https://github.com/SabrinaAug/MyGreetingCard/edit/release-0.0.1/README.md#%EF%B8%8F-gestionnaire-de-t%C3%A2ches)
+
 [Le site web / Cours de programmation](https://developer.android.com/codelabs)
 
 ## 🔧 Installation Android Studio
@@ -24,8 +29,9 @@ Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Androi
 1. Dans le menu déroulant en haut de la fenêtre Android Studio, sélectionner l'appareil virtuel que vous avez créé.
 2. Cliquez sur **Play**.
 
+## Annexes des projets réalisés :
 
-## 🎂 Création d'une carte d'anniversaire
+### 🎂 Création d'une carte d'anniversaire
 
 * Créer une fonction
 * L'utilisation de "Surface" ou "Box" qui sont des container pour positionner le text
@@ -34,11 +40,16 @@ Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Androi
 * Changer la taille de l'image avec l'aide de "modifier"
 <img src="https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/a68119ec-b45b-4d81-9c04-d1191a215a6b" width="200" height="400" >
 
-## 📰 Création d'un article sur Jetpack Compose
+### 📰 Création d'un article sur Jetpack Compose
 
 * Justifier un text
 * Bien positionner les différents composable
 <img src="https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/b216f987-12ee-41a5-a6f7-fe72c59ba471" width="200" height="400" >
+
+### ☑️ Gestionnaire de tâches
+* Utilisation du "fontweight" pour mettre la police en gras.
+<img src="https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/c863af95-bd3c-4065-ae3f-4bc63e614a05" width="200" height="400" >
+
 
 
 
