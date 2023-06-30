@@ -26,4 +26,13 @@ Références :
 2. Cliquez sur **Play**.
 
 
+## Création d'une carte d'anniversaire
+
+* Créer une fonction
+* L'utilisation de "Surface" ou "Box" qui sont des container pour positionner le text
+* L'utilisation de "Row" et de "Column"
+* Ajouter une image au projet
+* Changer la taille de l'image avec l'aide de "modifier"
+* 
+
 
