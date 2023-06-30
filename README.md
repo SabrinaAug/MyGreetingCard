@@ -35,6 +35,9 @@ Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Androi
 <img src="https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/a68119ec-b45b-4d81-9c04-d1191a215a6b" width="200" height="400" >
 
 ## 📰 Création d'un article sur Jetpack Compose
+
+* Justifier un text
+* Bien positionner les différents composable
 <img src="https://github.com/SabrinaAug/MyGreetingCard/assets/136794270/b216f987-12ee-41a5-a6f7-fe72c59ba471" width="200" height="400" >
 
 
