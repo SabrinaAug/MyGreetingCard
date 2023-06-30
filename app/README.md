@@ -1,14 +1,29 @@
-# My Greeting Card
+# My Greeting Card - J'apprends à développer des applications Android
 
 Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Android studio et développer des applications Android en Kotlin avec JetPack Compose
 
 Références : 
-    * [le site web / Cours de programmation :](https://developer.android.com/codelabs)
+    * [le site web / Cours de programmation](https://developer.android.com/codelabs)
 
 ## Installation Android Studio
+    * [Lien vers le site web](https://developer.android.com/studio/install)
 
-## Création de la première application Android (Greeting Card)
+## Création d'un nouveau AVD(Android Virtual Device)
 
+1. Dans Android Studio, sélectionnez **Outils>Gestionnaire d'appareils.**
+2. Cliquez sur **Create device**
+3. Sélectionner la catégorie **Téléphone**
+4. Sélectionner un téléphone (J'ai choisi le Pixel 6), puis cliquez sur **Next**.
+5. J'ai téléchargé **S** et la versino **Tiramisu**
+6. Dans l'onglet Recommandé, sélectionner "S" comme version Android à exécuter sur l'appareil virtuel
+7. Dans le champ **Nom de l'AVD**, saisir un nom pour l'AVD ou utiliser celui par défaut. Ne pas modifier les autres champs.
+8. Cliquer sur **terminer**.
+9. Fermer la fenêtre **Gestionnaire d'appareils**
+
+## Exécuter l'application sur Android Emulator
+
+1. Dans le menu déroulant en haut de la fenêtre Android Studio, sélectionner l'appareil virtuel que vous avez créé.
+2. Cliquez sur **Play**.
 
 
 
