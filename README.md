@@ -1,13 +1,15 @@
 # My Greeting Card - J'apprends à développer des applications Android
 
+![](https://developer.android.com/static/studio/images/new-studio-logo-1.png)
+
 Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Android studio et développer des applications Android en Kotlin avec JetPack Compose
 
 [Le site web / Cours de programmation](https://developer.android.com/codelabs)
 
-## Installation Android Studio
+## 🔧 Installation Android Studio
 [Process d'insatllation via le site web Android]( https://developer.android.com/studio/install)
 
-## Création d'un nouveau AVD(Android Virtual Device)
+## 📱 Création d'un nouveau AVD(Android Virtual Device)
 
 1. Dans Android Studio, sélectionnez **Outils>Gestionnaire d'appareils.**
 2. Cliquez sur **Create device**
@@ -19,13 +21,13 @@ Ce repertoire est créé comme une "Sandbox" pour m'apprendre à utiliser Androi
 8. Cliquer sur **terminer**.
 9. Fermer la fenêtre **Gestionnaire d'appareils**
 
-## Exécuter l'application sur Android Emulator
+## ⏯️ Exécuter l'application sur Android Emulator
 
 1. Dans le menu déroulant en haut de la fenêtre Android Studio, sélectionner l'appareil virtuel que vous avez créé.
 2. Cliquez sur **Play**.
 
 
-## Création d'une carte d'anniversaire
+## 🎂 Création d'une carte d'anniversaire
 
 * Créer une fonction
 * L'utilisation de "Surface" ou "Box" qui sont des container pour positionner le text
