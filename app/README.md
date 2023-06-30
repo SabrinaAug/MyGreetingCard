@@ -33,6 +33,6 @@ Références :
 * L'utilisation de "Row" et de "Column"
 * Ajouter une image au projet
 * Changer la taille de l'image avec l'aide de "modifier"
-* 
+  ![capture de ma carte d'anniversaire](C:\Users\utilisateur\Pictures\Capture-birthdayCardWithImage-AndroidApplication.PNG)
 
 
